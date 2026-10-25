@@ -1,6 +1,5 @@
 # CLOVER
-#### Video Demo:  <URL HERE>
-#### Description:
+#### [Video Demo](https://youtu.be/QoN3dDK799c)
 ## What is Clover?
 Clover is a video game in Python that has been created from scratch by a person knowing nothing about code and that has been learning Python with CS50P.
 ### The game
