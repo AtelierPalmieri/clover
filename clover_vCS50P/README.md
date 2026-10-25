@@ -44,6 +44,7 @@ If an event of type `MOUSEBUTTONDOWN` is detected on a pot, a clover animation w
 
 The game can now be played.
 ## Test file
+The several test functions are commented in `test_project.py`
 ## Possible improvements
 - Sprites : The `get_image` function could be improved to manage any type of spritesheets. It currently can only manage 366x60px pngs with exactly 6 sprites. It would be great to add the possibility to give more arguments to the function depending on the type of the spritesheet.
 - Collisions : The `generate_clover` function could be improved by keeping in memory sprites positions and making impossible to generate 2 clovers in the same position, using maybe `pygame.spritecollide`
